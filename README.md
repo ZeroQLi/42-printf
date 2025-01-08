@@ -1,4 +1,4 @@
-# printf
+# ft_printf
 ## A custom written version of the original printf function in C
 
 This is a custom wirtten printf. that handles most of the commonly used formatting flags ``%(cspxXudi%)``
